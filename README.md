@@ -10,6 +10,6 @@ In this repository, you can access the necessary explanations for the project.
 
 VirtualBox - Windows,Mac(Intel) VM installation: [M.Reza Dorudian](https://github.com/MrezaDorudian)
 
-Multipass - Mac(AppleSilicon & Intel), windows, linux installation: [M.Sadra Haeri Aasdi](https://github.com/mohammadsadra)
+Multipass - Mac(AppleSilicon & Intel), windows and linux VM installation: [M.Sadra Haeri Aasdi](https://github.com/mohammadsadra)
 
 Hadoop installation: [M.Reza Dorudian](https://github.com/MrezaDorudian)
