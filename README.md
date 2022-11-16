@@ -5,7 +5,7 @@
 
 
 
-Course project 
+This repo contains all supplementary items for Cloud Computing course taught in IUST at Fall 2022.
 
 ## Hadoop
 
