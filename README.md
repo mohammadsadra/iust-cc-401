@@ -37,6 +37,10 @@ Multipass - Mac(AppleSilicon & Intel), windows and linux VM installation: [M.Sad
 
 Hadoop installation: [M.Reza Dorudian](https://github.com/MrezaDorudian)
 
+## Course Teacher
+[Dr.Fatemeh Noorani ](mailto:fnoorani80@gmail.com)
+
+
 ## Names of Teacher assistants 
 
 [M.Sadra Haeri Aasdi](https://github.com/mohammadsadra)
