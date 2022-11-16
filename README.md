@@ -3,18 +3,20 @@
 <img src="https://upload.wikimedia.org/wikipedia/en/8/88/IUST_logo_color.png" alt="drawing" width="100"/> <img src="https://www.freeiconspng.com/thumbs/cloud-icon/cloud-icon-8.png" alt="drawing" width="100"/>
 
 
-
-This repo contains all supplementary items for Cloud Computing course taught in IUST at Fall 2022.
+This repo contains all supplementary items for Cloud Computing course taught in IUST in Fall 2022.
 
 ## Hadoop
 
-In this repository, you can access the necessary explanations for the project.
+Designed a Hadoop hands-on assignment that contains three different phases:
+* Installing three VMs on the local machine
+* Setting Hadoop and HDFS up
+* Implementing 3 Map-Reduce programs for big data processing
 
-## About Dataset
-### Context
+### About Dataset
+#### Context
 data converted from tsv to csv
 
-### Content
+#### Content
 
 * tconst (string) - alphanumeric unique identifier of the title
 * titleType (string) – the type/format of the title (e.g. movie, short, tvseries, tvepisode, video, etc)
@@ -32,12 +34,12 @@ data converted from tsv to csv
 
 VirtualBox - Windows,Mac(Intel) VM installation: [M.Reza Dorudian](https://github.com/MrezaDorudian)
 
-Multipass - Mac(AppleSilicon & Intel), windows and linux VM installation: [M.Sadra Haeri Aasdi](https://github.com/mohammadsadra)
+Multipass - Mac(AppleSilicon & Intel), windows and linux VM installation: [M.Sadra Haeri Asadi](https://github.com/mohammadsadra)
 
 Hadoop installation: [M.Reza Dorudian](https://github.com/MrezaDorudian)
 
 ## Course Teacher
-[Dr.Fatemeh Noorani ](mailto:fnoorani80@gmail.com)
+[Dr.Fatemeh Noorani](mailto:fnoorani80@gmail.com)
 
 ## Course Mail
 [cciust01@gmail.com](mailto:cciust01@gmail.com)
@@ -45,11 +47,11 @@ Hadoop installation: [M.Reza Dorudian](https://github.com/MrezaDorudian)
 
 ## Names of Teacher assistants 
 
-[M.Sadra Haeri Aasdi](https://github.com/mohammadsadra)
+[M.Sadra Haeri Asadi](https://github.com/mohammadsadra)
 
 [M.Reza Dorudian](https://github.com/MrezaDorudian)
 
-[Aryan Boukani](https://github.com/2arian3)
+[Arian Boukani](https://github.com/2arian3)
 
 [S.Alireza Ezaz](https://github.com/Alireza-Ezaz)
 
