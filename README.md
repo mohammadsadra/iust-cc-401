@@ -22,6 +22,8 @@ data converted from tsv to csv
 * runtimeMinutes – primary runtime of the title, in minutes
 * genres (string array) – includes up to three genres associated with the title
 
+[Source](https://www.kaggle.com/datasets/fabriziocominetti/imdb-data?resource=download)
+
 ## Videos
 
 VirtualBox - Windows,Mac(Intel) VM installation: [M.Reza Dorudian](https://github.com/MrezaDorudian)
