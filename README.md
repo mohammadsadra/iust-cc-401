@@ -2,10 +2,7 @@
 # IUST - Cloud Computing 
 <img src="https://upload.wikimedia.org/wikipedia/en/8/88/IUST_logo_color.png" alt="drawing" width="100"/> <img src="https://www.freeiconspng.com/thumbs/cloud-icon/cloud-icon-8.png" alt="drawing" width="100"/>
 
-
-
-
-Course project 
+This repo contains all supplementary items for Cloud Computing course taught in IUST at Fall 2022.
 
 ## Hadoop
 
@@ -31,19 +28,19 @@ data converted from tsv to csv
 
 ## Videos
 
-VirtualBox - Windows,Mac(Intel) VM installation: [M.Reza Dorudian](https://github.com/MrezaDorudian)
+VirtualBox - Windows, Mac(Intel) VM installation: [M.Reza Dorudian](https://github.com/MrezaDorudian)
 
-Multipass - Mac(AppleSilicon & Intel), windows and linux VM installation: [M.Sadra Haeri Aasdi](https://github.com/mohammadsadra)
+Multipass - Mac(AppleSilicon & Intel), windows and linux VM installation: [M.Sadra Haeri Asadi](https://github.com/mohammadsadra)
 
 Hadoop installation: [M.Reza Dorudian](https://github.com/MrezaDorudian)
 
-## Names of Teacher assistants 
+## Teacher Assistants 
 
-[M.Sadra Haeri Aasdi](https://github.com/mohammadsadra)
+[M.Sadra Haeri Asadi](https://github.com/mohammadsadra)
 
 [M.Reza Dorudian](https://github.com/MrezaDorudian)
 
-[Aryan Boukani](https://github.com/2arian3)
+[Arian Boukani](https://github.com/2arian3)
 
 [S.Alireza Ezaz](https://github.com/Alireza-Ezaz)
 
