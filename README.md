@@ -1,4 +1,9 @@
-# IUST - Cloud Computing
+
+# IUST - Cloud Computing 
+<img src="https://upload.wikimedia.org/wikipedia/en/8/88/IUST_logo_color.png" alt="drawing" width="100"/>
+<img src="https://www.freeiconspng.com/thumbs/cloud-icon/cloud-icon-8.png" alt="drawing" width="100"/>
+
+
 
 Course project 
 
