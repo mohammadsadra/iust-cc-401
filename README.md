@@ -1,8 +1,11 @@
 
 # IUST - Cloud Computing 
-<img src="https://upload.wikimedia.org/wikipedia/en/8/88/IUST_logo_color.png" alt="drawing" width="100"/> <img src="https://www.freeiconspng.com/thumbs/cloud-icon/cloud-icon-8.png" alt="drawing" width="100"/>
+<img src="https://upload.wikimedia.org/wikipedia/en/8/88/IUST_logo_color.png" alt="drawing" width="100"/>
+<img src="https://www.freeiconspng.com/thumbs/cloud-icon/cloud-icon-8.png" alt="drawing" width="100"/>
 
-This repo contains all supplementary items for Cloud Computing course taught in IUST at Fall 2022.
+
+
+Course project 
 
 ## Hadoop
 
@@ -28,23 +31,26 @@ data converted from tsv to csv
 
 ## Videos
 
-VirtualBox - Windows, Mac(Intel) VM installation: [M.Reza Dorudian](https://github.com/MrezaDorudian)
+VirtualBox - Windows,Mac(Intel) VM installation: [M.Reza Dorudian](https://github.com/MrezaDorudian)
 
-Multipass - Mac(AppleSilicon & Intel), windows and linux VM installation: [M.Sadra Haeri Asadi](https://github.com/mohammadsadra)
+Multipass - Mac(AppleSilicon & Intel), windows and linux VM installation: [M.Sadra Haeri Aasdi](https://github.com/mohammadsadra)
 
 Hadoop installation: [M.Reza Dorudian](https://github.com/MrezaDorudian)
 
 ## Course Teacher
 [Dr.Fatemeh Noorani ](mailto:fnoorani80@gmail.com)
 
+## Course Mail
+[cciust01@gmail.com](mailto:cciust01@gmail.com)
 
-## Teacher Assistants 
 
-[M.Sadra Haeri Asadi](https://github.com/mohammadsadra)
+## Names of Teacher assistants 
+
+[M.Sadra Haeri Aasdi](https://github.com/mohammadsadra)
 
 [M.Reza Dorudian](https://github.com/MrezaDorudian)
 
-[Arian Boukani](https://github.com/2arian3)
+[Aryan Boukani](https://github.com/2arian3)
 
 [S.Alireza Ezaz](https://github.com/Alireza-Ezaz)
 
