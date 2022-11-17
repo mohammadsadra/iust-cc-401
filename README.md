@@ -13,8 +13,7 @@ Designed a Hadoop hands-on assignment that contains three different phases:
 * Implementing 3 Map-Reduce programs for big data processing
 
 ### About Dataset
-#### Context
-data converted from tsv to csv
+You can download the dataset from the following [link](https://drive.google.com/file/d/1J0IxfULMOgg_x6GDb63ouiwBzMW3dXhF/view?usp=sharing)
 
 #### Content
 
