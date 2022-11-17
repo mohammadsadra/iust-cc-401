@@ -45,7 +45,7 @@ Hadoop installation: [M.Reza Dorudian](https://github.com/MrezaDorudian)
 [cciust01@gmail.com](mailto:cciust01@gmail.com)
 
 
-## Names of Teacher assistants 
+## Teaching Assistants 
 
 [M.Sadra Haeri Asadi](https://github.com/mohammadsadra)
 
