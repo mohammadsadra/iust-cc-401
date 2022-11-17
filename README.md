@@ -1,6 +1,8 @@
 
 # IUST - Cloud Computing 
+<p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/en/8/88/IUST_logo_color.png" alt="drawing" width="100"/> <img src="https://www.freeiconspng.com/thumbs/cloud-icon/cloud-icon-8.png" alt="drawing" width="100"/>
+</p>  
 
 
 This repo contains all supplementary items for Cloud Computing course taught in IUST in Fall 2022.
