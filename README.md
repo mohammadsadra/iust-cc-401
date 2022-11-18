@@ -39,6 +39,8 @@ Multipass - Mac(AppleSilicon & Intel), windows and linux VM installation: [M.Sad
 
 Hadoop installation: [M.Reza Dorudian](https://github.com/MrezaDorudian)
 
+MapReduce Examples: [S.Alireza Ezaz](https://github.com/Alireza-Ezaz)
+
 ## Course Teacher
 [Dr.Fatemeh Noorani](mailto:fnoorani80@gmail.com)
 
