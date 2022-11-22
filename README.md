@@ -33,6 +33,14 @@ You can download the dataset from the following [link](https://drive.google.com/
 
 ## Videos
 
+### Introductory videos
+
+Introduction to Big Data and HDFS: [Arian Boukani](https://github.com/2arian3)
+
+What is Map-Reduce: [Arian Boukani](https://github.com/2arian3)
+
+### Project related videos
+
 VirtualBox - Windows,Mac(Intel) VM installation: [M.Reza Dorudian](https://github.com/MrezaDorudian)
 
 Multipass - Mac(AppleSilicon & Intel), windows and linux VM installation: [M.Sadra Haeri Asadi](https://github.com/mohammadsadra)
